@@ -1,0 +1,2 @@
+SC123,Badminton,CHAI LAI FONG,4
+SC002,Basketball,LEONG JIN YONG,10

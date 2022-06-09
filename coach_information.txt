@@ -1,0 +1,2 @@
+C123,CHAI LAI FONG,03/01/2021,03/02/2021,10,01137700973,kokfeengtan@email.com,SCC001,Sport Center Name01,SC001,Badminton,0,0
+C002,LEONG JIN YONG,04/01/2021,04/02/2021,15,01138828392,jinyongleong@email.com,SCC002,Sport Center Name02,SC002,Basketball,3.0,1
